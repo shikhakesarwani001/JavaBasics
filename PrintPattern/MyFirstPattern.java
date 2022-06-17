@@ -1,5 +1,5 @@
 
-public class MyClass {
+public class MyFirstPattern {
     public static void main(String args[]) {
       //12344321
       //123**321
