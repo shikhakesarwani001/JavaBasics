@@ -1,3 +1,5 @@
+package PrintPattern;
+
 public class ZeroOnePattern {
     //1
     //0 1

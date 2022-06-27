@@ -1,3 +1,5 @@
+package PrintPattern;
+
 public class InvertedPattern {
     //1 2 3 4 5
     //1 2 3 4

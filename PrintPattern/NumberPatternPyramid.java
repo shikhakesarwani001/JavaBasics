@@ -1,3 +1,5 @@
+package PrintPattern;
+
 public class NumberPatternPyramid {
     //    1
     //   1 2

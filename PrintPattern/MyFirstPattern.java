@@ -1,3 +1,4 @@
+package PrintPattern;
 
 public class MyFirstPattern {
     public static void main(String args[]) {

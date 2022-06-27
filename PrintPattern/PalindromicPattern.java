@@ -1,3 +1,5 @@
+package PrintPattern;
+
 public class PalindromicPattern{
     //        1
     //      2 1 2
