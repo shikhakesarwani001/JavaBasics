@@ -1,3 +1,5 @@
+package PrintPattern;
+
 public class ButterflyPattern {
     //*      *
     //**    **

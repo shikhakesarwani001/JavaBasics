@@ -1,3 +1,5 @@
+package PrintPattern;
+
 public class FlyodsTrianglePattern {
     //1
     //2  3
