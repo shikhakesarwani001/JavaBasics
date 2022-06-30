@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 //Reverse a given string 
 // StringInput="Shikha"  OutputString= "ahkihS"
+// StringInput="ABCD"    OutputString="DCBA" 
 public class ReverseString {
     
     public static void main(String[] args) {
