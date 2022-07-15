@@ -28,6 +28,19 @@
 //1<=n<=1000
 //1<=q<=1000
 //1<=|strings[i]|, |queries[i]|
+// Sample input
+// 3
+// def
+// de
+// fgh
+// 3
+// de
+// lmn
+// fgh
+// Sample Output
+// 1
+// 0
+// 1
 package ProblemSolving;
 
 import java.io.BufferedReader;
