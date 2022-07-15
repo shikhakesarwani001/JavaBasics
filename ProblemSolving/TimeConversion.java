@@ -40,7 +40,7 @@ import java.io.*;
 
 
 
-class Result {
+class TimeConversion {
 
     /*
      * Complete the 'timeConversion' function below.
@@ -74,22 +74,17 @@ class Result {
     }
     return res.toString();
     }
-    
-}
-
-public class TimeConversion {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        //BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
-
+       
         String s = bufferedReader.readLine();
 
-        String result = Result.timeConversion(s);
-
-        //bufferedWriter.write(result);
-        //bufferedWriter.newLine();
-
+        String result = timeConversion(s);
+        System.out.println(result);
+        
         bufferedReader.close();
-        //bufferedWriter.close();
+        
+        
     }
 }
+
